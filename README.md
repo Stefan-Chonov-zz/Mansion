@@ -10,7 +10,7 @@ Restful API
 ### Instalation
 
 ```
-git clone https://github.com/Stefan-Chonov/Dopamine.git
-cd Dopamine
+https://github.com/Stefan-Chonov/Mansion.git
+cd Mansion
 composer install
 ```
