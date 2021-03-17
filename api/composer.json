@@ -1,0 +1,14 @@
+{
+  "name": "mansion/api",
+  "require": {
+    "vlucas/phpdotenv": "^5.3",
+    "ext-curl": "*",
+    "ext-redis": "*",
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mansion\\": "src/"
+    }
+  }
+}

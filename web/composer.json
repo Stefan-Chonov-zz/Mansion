@@ -1,0 +1,13 @@
+{
+    "name": "mansion/web",
+    "require": {
+        "ext-curl": "*",
+        "vlucas/phpdotenv": "^5.3",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mansion\\Web\\": "src/"
+        }
+    }
+}
