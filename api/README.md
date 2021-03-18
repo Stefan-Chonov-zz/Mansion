@@ -17,7 +17,7 @@ UK Posts REST API
 ### Installation
 
 ```
-https://github.com/Stefan-Chonov/Mansion.git
+git clone https://github.com/Stefan-Chonov/Mansion.git
 cd Mansion
 cd api
 composer install
