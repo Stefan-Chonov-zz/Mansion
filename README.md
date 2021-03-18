@@ -14,7 +14,7 @@
 ### Installation
 
 ```
-https://github.com/Stefan-Chonov/Mansion.git
+git clone https://github.com/Stefan-Chonov/Mansion.git
 
 Rest Api installation.
 cd Mansion
